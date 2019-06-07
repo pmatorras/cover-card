@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/guifel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://guillaume.felley.io
+  * I am guifel (https://keybase.io/guifel) on keybase.
+  * I have a public key with fingerprint 2376 285D 0E01 530A 2425  0971 3331 EDE2 5AF3 64FD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e246475a68237fb9eea13f750c211eb97ae4afd858f00db9701f6107acf3fdd40a",
+      "fingerprint": "2376285d0e01530a242509713331ede25af364fd",
+      "host": "keybase.io",
+      "key_id": "3331ede25af364fd",
+      "kid": "0101e246475a68237fb9eea13f750c211eb97ae4afd858f00db9701f6107acf3fdd40a",
+      "uid": "ca0745156d2138d3e2ec2c3c8698c119",
+      "username": "guifel"
+    },
+    "service": {
+      "hostname": "guillaume.felley.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1559934918,
+  "expire_in": 157680000,
+  "prev": "8029830505ebc809d0eb46781187a8a53ea4b597619e60c52d9d531552ef3908",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMItAnicrZJbSBRRGMd3K4sWAq0si+hhiqAyOWfOnLlsl4cg6qGgGwShbGdmvlmn
+tp1tdnbVxKDQLhJKF7rQBcr0IQK1lCLsYpQFm10IhSjMMAqpqCgypLQzVvTSY+fl
+8H3n//3O/zvnuz1hdCAUfHx+V/HdUz2VwUz7yVSgcPByR7mgO2aZEC4XtsDIBjET
+kl5ki20KYQFhhEGUZEmhTFZFoli6BsAwsRSKDBFj0DWFgcQsU6WqhZDJY4QtGSOF
+GRaxTFNCTMgXLDseBTfh2nGPYzlIFlVqIkCYEsRESaRIUzAhBIMJImUWkSXL5IXF
+TtKv4OZ0loQC2+E5HkRG7P1D/599p0ZwBkOKRDGVTRET1SQggiEaxFBlTTUw1nxh
+Etw42wpcHU3ZFsSEinyB59K2Af6z+n38PY/FWGorFHBZDMp+NZVwHc8xnBgXFHte
+Ihn2AV5Zwq8oAT3ymxXR7bjJH5NXpMFN2k5cCGOuNDzbh2NKNY1IGlbzBShN2C5E
+bF9BFVlFfPn3QJojVSRqKkEUUdANFWn8L3RJVlSMVYWpjBJgkk41RcYayMigoqmZ
+lHC8CBbRkCr43W2LO0KYcpssypFJOxpnXsoFoeLWzcIxgWAoMDZrlD9kgdD47D+j
+V7B53FA4VZLz5Kk2sbbl2PtZlVUzv3WtPNd0ou5Tdfr+u+rM9ub9y0Kl4sG+6XOn
+TL526U510au1XzLfl9ZsaH3WOu3U8h3rFgxX1Q8vlovOnHB31h5uGOib8zVY3/W6
+W96XGBurycteTPrmLjRe9s5g30+/7FzU39i+ogHmd6DgmtOrN+X0yy3jJujNjcm6
+zFDersfhUVnPl0+9sH1ef0N7ac2Pz5M6c3qzCpu6irvzpEcHmiaedHfDvEn3PlZl
+ztdtfFCU29NdGagP1Hb17224+uwNutnmva13cmNXcNuRVR2HmnXhwpT11wfT3edu
+LCnfPFB4tH1J29nOr3velnw4fvii8+LhbHTkJwi4ToA=
+=1ooX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/guifel
+
+==================================================================
