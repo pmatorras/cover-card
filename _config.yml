@@ -34,8 +34,9 @@ github-user: 'guifel'
 #blog_url: 'myblog.blog.com'
 email: 'guillaume@felley.io'
 #messenger: 'myfbchat'
+keybase: guifel
 
-social-links-order: [github-user, twitter, telegram ,instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, facebook, blog_url, email]
+social-links-order: [email, telegram, github-user, twitter, keybase,instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, facebook, blog_url]
 
 # Advanced settings
 plugins:
