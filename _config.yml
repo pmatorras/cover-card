@@ -6,8 +6,8 @@ title: 'Pablo Matorras'
 description: ''
 
 # Images
-avatar: 'webpage.jpg'
-background: 'background2.jpg'
+avatar: 'webpage.JPG'
+background: 'P1220368.JPG'
 favicon: 'favicon.ico'
 
 # Online profiles
@@ -34,7 +34,7 @@ github-user: 'pmatorras'
 #blog_url: 'myblog.blog.com'
 email: 'pablo@matorras.com'
 #messenger: 'myfbchat'
-keybase: pmato
+#keybase: pmato
 
 social-links-order: [email, telegram, github-user, twitter, keybase,instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, facebook, blog_url]
 
